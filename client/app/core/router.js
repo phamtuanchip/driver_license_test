@@ -7,6 +7,7 @@ import Home from "../modules/home";
 import Counter from "../modules/counter";
 import Devices from "../modules/devices";
 import Posts from "../modules/posts";
+import Study from "../modules/study";
 import Profile from "../modules/profile";
 
 Vue.use(VueRouter);
@@ -18,7 +19,8 @@ export default new VueRouter({
 		{ path: "/devices", component: Devices },
 		{ path: "/posts", component: Posts },
 		{ path: "/counter", component: Counter },	
-		{ path: "/profile", component: Profile }
+		{ path: "/profile", component: Profile },
+		{ path: "/study", component: Study },
 		// { path: "/users", component: User, meta: { needRole: "admin" } },
 		//{ path: "*", component: NotFound }
 	]

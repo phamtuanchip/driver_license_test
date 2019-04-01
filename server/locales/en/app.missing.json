@@ -1,6 +1,6 @@
 {
     "Devices": "Devices",
-    "_t": "Mon Apr 01 2019 23:17:05 GMT+0700 (Indochina Time)",
+    "_t": "Tue Apr 02 2019 00:33:22 GMT+0700 (Indochina Time)",
     "ID": "ID",
     "Type": "Type",
     "Address": "Address",
@@ -29,5 +29,22 @@
     "MarkAllAsRead": "MarkAllAsRead",
     "SeeAllNotifications": "SeeAllNotifications",
     "SeeAllMessages": "SeeAllMessages",
-    "Messages": "Messages"
+    "Messages": "Messages",
+    "Title": "Title",
+    "TitleOfPost": "TitleOfPost",
+    "Content": "Content",
+    "MostViewed": "MostViewed",
+    "Hot": "Hot",
+    "ContentOfPost": "ContentOfPost",
+    "AllPosts": "AllPosts",
+    "MyPosts": "MyPosts",
+    "NewPost": "NewPost",
+    "New": "New",
+    "LoadMore": "LoadMore",
+    "EditPost": "EditPost",
+    "DeletePost": "DeletePost",
+    "Voters": "Voters",
+    "CreatedAgoByName": "CreatedAgoByName",
+    "Cancel": "Cancel",
+    "Study": "Study"
 }

@@ -27,6 +27,12 @@
 							i.fa.fa-comments
 						span.label {{ "Posts" | i18n }}
 
+				router-link(tag="li", to="/study")
+					a(:title="_('Study')")
+						span.icon
+							i.fa.fa-comments
+						span.label {{ "Study" | i18n }}		
+
 			.title {{ "Profile" | i18n }}
 			ul
 				li
